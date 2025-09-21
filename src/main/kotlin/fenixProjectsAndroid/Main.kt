@@ -1,4 +1,5 @@
-package fenixProjectsAndroid// Programa simples demonstrando as 4 operações básicas da matemática em Kotlin
+package fenixProjectsAndroid
+// Programa simples demonstrando as 4 operações básicas da matemática em Kotlin
 // Soma, Subtração, Multiplicação e Divisão (com tratamento para divisão por zero)
 //
 // Observação sobre o símbolo $ em Kotlin:
